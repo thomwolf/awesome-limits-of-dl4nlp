@@ -5,6 +5,7 @@ A curated list of recent papers exploring the qualitative limits of deep learnin
 Outside of focus: interpretability, better models of long-term dependencies (memory)
 
 # Models
+- [Controlling Decoding for More Abstractive Summaries with Copy-Based Networks](http://arxiv.org/abs/1803.07038) by Weber, N., Shekhar, L., Balasubramanian, N., & Cho, K. (2018)
 - [Evaluating Compositionality in Sentence Embeddings](http://arxiv.org/abs/1802.04302) by Dasgupta, I., Guo, D., Stuhlmüller, A., Gershman, S. J., & Goodman, N. D. (2018).
 - [Adversarial Examples for Evaluating Reading Comprehension Systems](http://arxiv.org/abs/1707.07328) by Jia, R., & Liang, P. (2017)
 - [Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks](https://arxiv.org/abs/1711.00350) by Lake, B. M., & Baroni, M. (2017)
