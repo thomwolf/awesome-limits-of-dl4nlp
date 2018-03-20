@@ -1,4 +1,3 @@
-# Thinking beyond Deep Learning
 > *No healthy human being would ever mistake a turtle for a rifle or parking sign for a refrigerator.* Gary Marcus, Deep Learning: A Critical Appraisal
 
 A curated list of recent papers exploring the qualitative limits of deep learning tools for NLP and the open-fields beyond them. I limit this selection to constructive papers with interesting insights.
