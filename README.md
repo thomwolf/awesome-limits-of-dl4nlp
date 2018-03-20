@@ -1,10 +1,11 @@
 # Thinking beyond Deep Learning
 > *No healthy human being would ever mistake a turtle for a rifle or parking sign for a refrigerator.* Gary Marcus, Deep Learning: A Critical Appraisal
 
-A curated list of recent papers exploring the limits of deep learning tools for NLP and the open-fields beyond them. This is a selection of "constructive" papers trying to highlight the qualitative limits of current technics and to offer interesting ways to overcome them.
+A curated list of recent papers exploring the qualitative limits of deep learning tools for NLP and the open-fields beyond them. I limit this selection to constructive papers with interesting insights.
+
+Outside of focus: interpretability, better models of long-term dependencies (memory)
 
 # Model limits
-Exploring the "qualitative" limits of Deep Learning models for NLP (beyond memory and interpretability which are important questions but not the focus here)
 - [Evaluating Compositionality in Sentence Embeddings](http://arxiv.org/abs/1802.04302) by Dasgupta, I., Guo, D., Stuhlmüller, A., Gershman, S. J., & Goodman, N. D. (2018).
 - [Adversarial Examples for Evaluating Reading Comprehension Systems](http://arxiv.org/abs/1707.07328) by Jia, R., & Liang, P. (2017)
 - [Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks](https://arxiv.org/abs/1711.00350) by Lake, B. M., & Baroni, M. (2017)
@@ -12,7 +13,6 @@ Exploring the "qualitative" limits of Deep Learning models for NLP (beyond memor
 - [Tree-structured composition in neural networks without tree-structured architectures](http://arxiv.org/abs/1506.04834) by Bowman, S. R., Manning, C. D., & Potts, C. (2015)
 
 # NLP Datasets limits
-Artifacts and limits of current datasets (beyond advocating for bigger dataset) 
 - [Annotation Artifacts in Natural Language Inference Data](http://arxiv.org/abs/1803.02324) by Gururangan, S., Swayamdipta, S., Levy, O., Schwartz, R., Bowman, S. R., & Smith, N. A. (2018)
 - [Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge](http://arxiv.org/abs/1803.05457) by Clark, P., Cowhey, I., Etzioni, O., Khot, T., Sabharwal, A., Schoenick, C., & Tafjord, O. (2018)
 
