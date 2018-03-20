@@ -4,14 +4,14 @@ A curated list of recent papers exploring the qualitative limits of deep learnin
 
 Outside of focus: interpretability, better models of long-term dependencies (memory)
 
-# Model limits
+# Models
 - [Evaluating Compositionality in Sentence Embeddings](http://arxiv.org/abs/1802.04302) by Dasgupta, I., Guo, D., Stuhlmüller, A., Gershman, S. J., & Goodman, N. D. (2018).
 - [Adversarial Examples for Evaluating Reading Comprehension Systems](http://arxiv.org/abs/1707.07328) by Jia, R., & Liang, P. (2017)
 - [Generalization without systematicity: On the compositional skills of sequence-to-sequence recurrent networks](https://arxiv.org/abs/1711.00350) by Lake, B. M., & Baroni, M. (2017)
-- [Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics](http://arxiv.org/abs/1706.04317) by Kansky, K., Silver, T., Mély, D. A., Eldawy, M., Lázaro-Gredilla, M., Lou, X., … George, D. (2017)
 - [Tree-structured composition in neural networks without tree-structured architectures](http://arxiv.org/abs/1506.04834) by Bowman, S. R., Manning, C. D., & Potts, C. (2015)
+- Not NLP: [Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics](http://arxiv.org/abs/1706.04317) by Kansky, K., Silver, T., Mély, D. A., Eldawy, M., Lázaro-Gredilla, M., Lou, X., … George, D. (2017)
 
-# NLP Datasets limits
+# NLP Datasets
 - [Annotation Artifacts in Natural Language Inference Data](http://arxiv.org/abs/1803.02324) by Gururangan, S., Swayamdipta, S., Levy, O., Schwartz, R., Bowman, S. R., & Smith, N. A. (2018)
 - [Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge](http://arxiv.org/abs/1803.05457) by Clark, P., Cowhey, I., Etzioni, O., Khot, T., Sabharwal, A., Schoenick, C., & Tafjord, O. (2018)
 
